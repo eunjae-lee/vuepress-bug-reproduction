@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-bug-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eunjae Lee <karis612@gmail.com> (https://github.com/eunjae-lee)",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "1.0.0-alpha.22"
+  }
+}
